@@ -1,0 +1,17 @@
+body{
+    margin: 10px; background-image: ("..wall.jpg");
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+#my_canvas{
+    background-color: black;
+    border: #009 1px solid;
+}
+.boton{
+    color: red;
+    font-size: 40px;
+    background-color: black;
+    
+}
